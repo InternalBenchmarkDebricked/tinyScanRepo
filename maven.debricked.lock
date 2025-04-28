@@ -1,0 +1,12 @@
+100048427 org.cysecurity:JavaVulnerableLab:war:0.0.1-SNAPSHOT
+1549623669 org.eclipse.jetty:jetty-servlets:jar:9.2.14.v20151106:provided
+1967434886 org.eclipse.jetty:jetty-continuation:jar:9.2.14.v20151106:provided
+1820594585 org.eclipse.jetty:jetty-http:jar:9.2.14.v20151106:provided
+1786872722 org.eclipse.jetty:jetty-util:jar:9.2.14.v20151106:provided
+1217434045 org.eclipse.jetty:jetty-io:jar:9.2.14.v20151106:provided
+#
+1549623669 1967434886 provided
+1549623669 1820594585 provided
+1549623669 1786872722 provided
+1549623669 1217434045 provided
+100048427 1549623669 provided
